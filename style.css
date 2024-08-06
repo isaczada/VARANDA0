@@ -1,0 +1,25 @@
+    body{
+        background-color: #8B7765;
+        color: whitesmoke;
+        text-align: center;
+        padding: 15px;
+        
+         
+    }
+    figure.randa img{
+
+        width: 400px;
+        height: 100px;
+    }
+
+p{
+   font-size: 30px;
+   font-style: italic;
+   text-align: justify;
+   text-indent: 50px;
+}
+figure.frente{
+
+    width: 500px;
+    height: 10px;
+}
